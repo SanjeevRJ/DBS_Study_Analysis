@@ -1,0 +1,5 @@
+Row Labels,F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope,F0semitoneFrom27.5Hz_sma3nz_percentile20.0,F0semitoneFrom27.5Hz_sma3nz_stddevRisingSlope,F2bandwidth_sma3nz_amean,MeanUnvoicedSegmentLength,alphaRatioUV_sma3nz_amean,hammarbergIndexV_sma3nz_stddevNorm,loudnessPeaksPerSec,loudness_sma3_meanFallingSlope,loudness_sma3_stddevNorm,slopeUV500-1500_sma3nz_amean
+Off Mean,330.836,26.6,470.1528,830.28,0.249072,-7.11252,0.67788,2.519,5.34996,0.7414,0.0055636
+Off Std,208.7981359,5.63493567,297.1622363,97.58394677,0.192876939,13.54340813,0.575401332,1.126733849,3.126218569,0.232491756,0.007882303
+On Mean,223.1776,25.568,277.1376,867.88,0.301068,-9.3734,0.55044,2.1054,4.4048,0.81204,0.0037958
+On Std,151.8707533,6.26562846,270.6878895,112.9425813,0.24167219,13.02091303,0.365368088,0.990979524,2.066908158,0.309947641,0.007626851

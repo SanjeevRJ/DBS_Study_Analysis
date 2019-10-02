@@ -1,0 +1,11 @@
+,AudioFile,Mean_Pause_Length_VADInt_3,Pause_Percentage_VADInt_1,Pause_Percentage_VADInt_2,Pause_Percentage_VADInt_3,Pause_Speech_Ratio_VADInt_1,Pause_Speech_Ratio_VADInt_2,Pause_Speech_Ratio_VADInt_3,Pause_Time_VADInt_1,Pause_Time_VADInt_2,Pause_Time_VADInt_3,Pause_Variability_VADInt_3,Speech_Time_VADInt_1,Speech_Time_VADInt_2,Speech_Time_VADInt_3,Total_Time_VADInt_1,Total_Time_VADInt_2,Total_Time_VADInt_3
+0,11_sentence_on.wav,0,-1.72E-16,-1.72E-16,-1.72E-16,-1.72E-16,-1.72E-16,-1.72E-16,-1.78E-15,-1.78E-15,-1.78E-15,0,10.3,10.3,10.3,10.3,10.3,10.3
+1,11_animal_on.wav,0,0,0,0.000606061,0,0,0.000606428,0,0,0.02,0,33,33,32.98,33,33,33
+2,11_counting_on.wav,0.0325,0,0,0.020883534,0,0,0.021328958,0,0,0.52,0.00024375,24.9,24.9,24.38,24.9,24.9,24.9
+3,11_freespeech_on.wav,0.025,-1.16E-16,-1.16E-16,0.003267974,-1.16E-16,-1.16E-16,0.003278689,-3.55E-15,-3.55E-15,0.1,7.50E-05,30.6,30.6,30.5,30.6,30.6,30.6
+4,11_freespeech_off.wav,0.037777778,0,0,0.010691824,0,0,0.010807374,0,0,0.34,0.001017284,31.8,31.8,31.46,31.8,31.8,31.8
+5,11_sentence_off.wav,0,0,0,0,0,0,0,0,0,0,0,8.82,8.82,8.82,8.82,8.82,8.82
+6,11_ahh_off.wav,0.43,0,0,0.026726058,0,0,0.027459954,0,0,0.24,0.0361,9.6,9.6,8.74,9.6,9.6,8.98
+7,11_animal_off.wav,0.037333333,-1.14E-16,-1.14E-16,0.018006431,-1.14E-16,-1.14E-16,0.018336608,-3.55E-15,-3.55E-15,0.56,0.000526222,31.1,31.1,30.54,31.1,31.1,31.1
+8,11_counting_off.wav,0.04,0,0,0.003770028,0,0,0.003784295,0,0,0.08,0,21.22,21.22,21.14,21.22,21.22,21.22
+9,11_ahh_on.wav,0.14,0,0,0,0,0,0,0,0,0,0.0144,9.1,9.1,8.82,9.1,9.1,8.82
